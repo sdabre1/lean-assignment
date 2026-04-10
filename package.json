@@ -1,0 +1,15 @@
+{
+  "name": "saucedemo-playwright-pom",
+  "version": "1.0.0",
+  "description": "Playwright TypeScript POM Framework for SauceDemo Checkout Flow",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "report": "npx playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.45.0",
+    "typescript": "^5.4.0"
+  }
+}

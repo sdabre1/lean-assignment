@@ -1,0 +1,11 @@
+{
+  "loginCredentials": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+  "checkoutDetails": {
+    "firstName": "TEST",
+    "lastName": "USER",
+    "zipCode": "411001"
+  }
+}
